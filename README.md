@@ -20,7 +20,7 @@ You can play multiplayer with your friends up to five friends. The first player 
 Cause of Google Map Api price, we aren't enabled to deploy server with unlimited access. But you can deploy your own game server and play this game unlimitedly and free.
 
 This game was forked from [GeoGuess Master Web](https://github.com/spider-hand/Geoguess-Master-Web).
-
+a
 ## Table of contents
 
 <!-- TOC -->
